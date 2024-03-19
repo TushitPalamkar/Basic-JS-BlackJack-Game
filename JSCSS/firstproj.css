@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+    color: white;
+}
+h1{
+    margin-top: 50px;
+    text-align: center;
+    size: 4rem;
+}
+body{
+    background-image: url("./Home.png");
+}
+h2{
+    margin-top: 20px;
+    text-align: center;
+}
+
+button{
+    color: white;
+    background-color: maroon;
+    margin-top: 50px;
+    width: 200px;
+    
+    border-radius: 5px;
+    margin-left: 44%;
+   
+}
+p{
+    text-align: center;
+    margin-top: 20px;
+}

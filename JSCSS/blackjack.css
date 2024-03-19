@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+}
+h1
+{
+    color: goldenrod;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+body{
+    text-align: center;
+    font-size: 2rem;
+    background-image: url("./BlackJKimage.jpg");
+    background-size: cover;
+}
+button{
+    width: 250px;
+    margin: 10px 10px 0 0;
+    background-color: goldenrod;
+    font-size: 2rem;
+    border: 2px solid black;
+    border-radius: 1rem;
+}

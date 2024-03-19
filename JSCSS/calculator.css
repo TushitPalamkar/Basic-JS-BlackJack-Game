@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+}
+div{
+    margin-top: 20px;
+    flex: auto;
+    
+}
